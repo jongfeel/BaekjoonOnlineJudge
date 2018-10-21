@@ -44,6 +44,8 @@ Beakjoon online judge problems solve
 
 #### [2741 N 찍기](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/2741)
 
+#### [7287 등록](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/7287)
+
 #### [10172 개](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10172)
 
 #### [11718 그대로 출력하기](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11718)
