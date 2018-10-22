@@ -28,11 +28,11 @@ Beakjoon online judge problems solve
 - Language: C#
 - [Get Started withd C# and Visual Studio Code](https://docs.microsoft.com/ko-kr/dotnet/core/tutorials/with-visual-studio-code)
 
-### First Problems
+### First Week Problems ( ~ 2018.10.21)
 
 [1000](https://www.acmicpc.net/problem/1000), [1001](https://www.acmicpc.net/problem/1001), [1008](https://www.acmicpc.net/problem/1008), [2557](https://www.acmicpc.net/problem/2557), [2741](https://www.acmicpc.net/problem/2741), [7287](https://www.acmicpc.net/problem/7287), [10172](https://www.acmicpc.net/problem/10172), [11718](https://www.acmicpc.net/problem/11718)
 
-### Second Problems
+### Second Week Problems ( ~ 2018.10.28)
 
 #### Step1
 
@@ -62,4 +62,8 @@ Beakjoon online judge problems solve
 
 #### [10172 개](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10172)
 
+#### [10718 We love kriii](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10718)
+
 #### [11718 그대로 출력하기](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11718)
+
+#### [11719 그대로 출력하기2](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11719)
