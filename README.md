@@ -32,6 +32,20 @@ Beakjoon online judge problems solve
 
 [1000](https://www.acmicpc.net/problem/1000), [1001](https://www.acmicpc.net/problem/1001), [1008](https://www.acmicpc.net/problem/1008), [2557](https://www.acmicpc.net/problem/2557), [2741](https://www.acmicpc.net/problem/2741), [7287](https://www.acmicpc.net/problem/7287), [10172](https://www.acmicpc.net/problem/10172), [11718](https://www.acmicpc.net/problem/11718)
 
+### Second Problems
+
+#### Step1
+
+[10718](https://www.acmicpc.net/problem/10718), [11719](https://www.acmicpc.net/problem/11719)
+
+#### Step2
+
+[10998](https://www.acmicpc.net/problem/10998), [10869](https://www.acmicpc.net/problem/10869), [10430](https://www.acmicpc.net/problem/10430), [2558](https://www.acmicpc.net/problem/2558), [2839](https://www.acmicpc.net/problem/2839)
+
+#### Step3
+
+[2742](https://www.acmicpc.net/problem/2742), [2739](https://www.acmicpc.net/problem/2739), [2438](https://www.acmicpc.net/problem/2438), [2439](https://www.acmicpc.net/problem/2439), [2440](https://www.acmicpc.net/problem/2440), [2441](https://www.acmicpc.net/problem/2441), [1924](https://www.acmicpc.net/problem/1924), [8393](https://www.acmicpc.net/problem/8393), [11720](https://www.acmicpc.net/problem/11720), [11721](https://www.acmicpc.net/problem/11721), [15552](https://www.acmicpc.net/problem/15552)
+
 ### Solved Problems
 
 #### [1000 A + B](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1000)
