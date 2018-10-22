@@ -64,6 +64,10 @@ Beakjoon online judge problems solve
 
 #### [10718 We love kriii](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10718)
 
+#### [10869 사칙연산](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10869)
+
+#### [10998 A X B](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10998)
+
 #### [11718 그대로 출력하기](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11718)
 
 #### [11719 그대로 출력하기2](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11719)
