@@ -62,6 +62,8 @@ Beakjoon online judge problems solve
 
 #### [10172 개](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10172)
 
+#### [10430 나머지](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10430)
+
 #### [10718 We love kriii](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10718)
 
 #### [10869 사칙연산](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10869)
