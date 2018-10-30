@@ -6,7 +6,7 @@ Beakjoon online judge problems solve
 
 ### Community place
 
-[slack link](astudy-group.slack.com)
+[slack link](https://astudy-group.slack.com)
 
 ### Code review
 
@@ -46,6 +46,12 @@ Beakjoon online judge problems solve
 
 [2742](https://www.acmicpc.net/problem/2742), [2739](https://www.acmicpc.net/problem/2739), [2438](https://www.acmicpc.net/problem/2438), [2439](https://www.acmicpc.net/problem/2439), [2440](https://www.acmicpc.net/problem/2440), [2441](https://www.acmicpc.net/problem/2441), [1924](https://www.acmicpc.net/problem/1924), [8393](https://www.acmicpc.net/problem/8393), [11720](https://www.acmicpc.net/problem/11720), [11721](https://www.acmicpc.net/problem/11721), [15552](https://www.acmicpc.net/problem/15552)
 
+### Third Week Problems ( ~ 2018.11.04)
+
+#### Step4: if문 사용해보기
+
+[9498](https://www.acmicpc.net/problem/9498), [10817](https://www.acmicpc.net/problem/10817), [10871](https://www.acmicpc.net/problem/10871), [1546](https://www.acmicpc.net/problem/1546), [4344](https://www.acmicpc.net/problem/4344), [1110](https://www.acmicpc.net/problem/1110)
+
 ### Solved Problems
 
 - 그냥 문제 번호 순서대로 나열
@@ -56,6 +62,10 @@ Beakjoon online judge problems solve
 #### [1001 A - B](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1001)
 
 #### [1008 A / B](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1008)
+
+#### [1110 더하기 싸이클](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1110)
+
+#### [1546 평균](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1546)
 
 #### [1924 2007년](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1924)
 
@@ -79,15 +89,23 @@ Beakjoon online judge problems solve
 
 #### [*2839 설탕 배달](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/2839)
 
+#### [4344 평균은 넘겠지](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/4344)
+
 #### [7287 등록](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/7287)
 
 #### [8393 합](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/8393)
+
+#### [9498 시험 성적](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/9498)
 
 #### [10172 개](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10172)
 
 #### [10430 나머지](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10430)
 
+#### [10817 세 수](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10817)
+
 #### [10718 We love kriii](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10718)
+
+#### [10871 X보다 작은 수](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10871)
 
 #### [11720 숫자의 합](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11720)
 
