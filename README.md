@@ -52,11 +52,17 @@ Beakjoon online judge problems solve
 
 [9498](https://www.acmicpc.net/problem/9498), [10817](https://www.acmicpc.net/problem/10817), [10871](https://www.acmicpc.net/problem/10871), [1546](https://www.acmicpc.net/problem/1546), [4344](https://www.acmicpc.net/problem/4344), [1110](https://www.acmicpc.net/problem/1110)
 
-### 4th Week Problems ( ~ 2018.11.04)
+### 4th Week Problems ( ~ 2018.11.11)
 
 #### Step5: 함수 사용하기
 
 [4673](https://www.acmicpc.net/problem/4673), [1065](https://www.acmicpc.net/problem/1065), [2448](https://www.acmicpc.net/problem/2448)
+
+### 5th Week Problems ( ~ 2018.11.18)
+
+#### Step6: 1차원 배열 사용하기
+
+[1152](https://www.acmicpc.net/problem/1152), [2577](https://www.acmicpc.net/problem/2577), [8958](https://www.acmicpc.net/problem/8958), [2920](https://www.acmicpc.net/problem/2920), [10039](https://www.acmicpc.net/problem/10039)
 
 ## Solved Problems
 
@@ -72,6 +78,8 @@ Beakjoon online judge problems solve
 ### [1065 한수](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1065)
 
 ### [1110 더하기 싸이클](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1110)
+
+### [1152 단어의 개수](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1152)
 
 ### [1546 평균](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/1546)
 
@@ -91,6 +99,8 @@ Beakjoon online judge problems solve
 
 ### [2558 A + B - 2](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/2558)
 
+### [2577 숫자의 개수](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/2577)
+
 ### [2739 구구단](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/2739)
 
 ### [2741 N 찍기](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/2741)
@@ -98,6 +108,8 @@ Beakjoon online judge problems solve
 ### [2742 기찍 N](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/2742)
 
 ### [*2839 설탕 배달](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/2839)
+
+### [2920 음계](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/2920)
 
 ### [4344 평균은 넘겠지](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/4344)
 
@@ -107,25 +119,29 @@ Beakjoon online judge problems solve
 
 ### [8393 합](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/8393)
 
+### [8958 OX퀴즈](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/8958)
+
 ### [9498 시험 성적](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/9498)
+
+### [10039 평균 점수](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10039)
 
 ### [10172 개](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10172)
 
 ### [10430 나머지](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10430)
 
-### [10817 세 수](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10817)
-
 ### [10718 We love kriii](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10718)
 
+### [10817 세 수](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10817)
+
+### [10869 사칙연산](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10869)
+
 ### [10871 X보다 작은 수](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10871)
+
+### [10998 A X B](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10998)
 
 ### [11720 숫자의 합](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11720)
 
 ### [11721 열 개씩 끊어 출력하기](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11721)
-
-### [10869 사칙연산](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10869)
-
-### [10998 A X B](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/10998)
 
 ### [11718 그대로 출력하기](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11718)
 
