@@ -16,7 +16,7 @@ namespace Problem
 
         public static int GetWordCount(string s1)
         {
-            return s1.Split().Where(word => word != string.Empty).Count();;
+            return s1.Split().Where(word => word != string.Empty).Count();
         }
     }
 }

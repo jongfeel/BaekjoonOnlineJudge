@@ -14,10 +14,10 @@ namespace test
     {
         public IEnumerable<object[]> GetData(MethodInfo methodInfo)
         {
-            yield return new object[] { 26, 68};
-            yield return new object[] { 68, 84};
-            yield return new object[] { 84, 42};
-            yield return new object[] { 42, 26};
+            yield return new object[] { "The Curious Case of Benjamin Button", 6};
+            yield return new object[] { " Mazatneunde Wae Teullyeoyo", 3};
+            yield return new object[] { "Teullinika Teullyeotzi ", 2};
+            yield return new object[] { "1    2 3   4  5  ", 5};
         }
 
         public string GetDisplayName(MethodInfo methodInfo, object[] data)
@@ -34,11 +34,11 @@ namespace test
     {
         [DataTestMethod]
         [CustomDataSource]
-        public void TestMethod(int n, int expected)
+        public void TestMethod(string s, int expected)
         {
             Trace.Listeners.Add(new TextWriterTraceListener(Console.Out));
-            Trace.WriteLine($"{n} {expected}");
-            Assert.AreEqual(Program.GetCycleNumber(n), expected);
+            Trace.WriteLine($"{s} {expected}");
+            Assert.AreEqual(Program.GetWordCount(s), expected);
         }
     }
 }
