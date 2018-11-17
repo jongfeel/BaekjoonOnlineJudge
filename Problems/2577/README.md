@@ -1,51 +1,52 @@
-# Problem 1152
+# Problem 2577
 
-## 단어의 개수
+## 숫자의 개수
 
 ### 문제
 
-영어 대소문자와 띄어쓰기만으로 이루어진 문자열이 주어진다. 이 문자열에는 몇 개의 단어가 있을까? 이를 구하는 프로그램을 작성하시오. 단, 한 단어가 여러 번 등장하면 등장한 횟수만큼 모두 세어야 한다.
+세 개의 자연수 A, B, C가 주어질 때 A×B×C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하는 프로그램을 작성하시오.
+
+예를 들어 A = 150, B = 266, C = 427 이라면 
+
+A × B × C = 150 × 266 × 427 = 17037300 이 되고, 
+
+계산한 결과 17037300 에는 0이 3번, 1이 1번, 3이 2번, 7이 2번 쓰였다.
 
 ### 입력
 
-첫 줄에 영어 대소문자와 띄어쓰기로 이루어진 문자열이 주어진다. 이 문자열의 길이는 1,000,000을 넘지 않는다. 단어는 띄어쓰기 한 개로 구분되며, 공백이 연속해서 나오는 경우는 없다. 또한 문자열의 앞과 뒤에는 공백이 있을 수도 있다.
+첫째 줄에 A, 둘째 줄에 B, 셋째 줄에 C가 주어진다. A, B, C는 모두 100보다 같거나 크고, 1,000보다 작은 자연수이다.
 
 ### 출력
 
-첫째 줄에 단어의 개수를 출력한다.
+첫째 줄에는 A×B×C의 결과에 0 이 몇 번 쓰였는지 출력한다. 마찬가지로 둘째 줄부터 열 번째 줄까지 A×B×C의 결과에 1부터 9까지의 숫자가 각각 몇 번 쓰였는지 차례로 한 줄에 하나씩 출력한다.
 
 ### 예제 입력 1
 
-The Curious Case of Benjamin Button
+150\
+266\
+417
 
 ### 예제 출력 1
 
-6
-
-### 예제 입력 2
-
- Mazatneunde Wae Teullyeoyo
-
-### 예제 출력 2
-
-3
-
-### 예제 입력 3
-
-Teullinika Teullyeotzi 
-
-### 예제 출력 3
-
-2
+3\
+1\
+0\
+2\
+0\
+0\
+0\
+2\
+0\
+0
 
 ## 문제 링크
 
-[https://www.acmicpc.net/problem/1152](https://www.acmicpc.net/problem/1152)
+[https://www.acmicpc.net/problem/2577](https://www.acmicpc.net/problem/2577)
 
 ## Run - bash
 
 ```bash
-cd BaekjoonOnlineJudge\Problems\1152\Program
+cd BaekjoonOnlineJudge\Problems\2577\Program
 dotnet build
 ```
 
@@ -64,7 +65,7 @@ dotnet run
 ## MSTest - bash
 
 ```bash
-cd BaekjoonOnlineJudge\Problems\1152\Program.test
+cd BaekjoonOnlineJudge\Problems\2577\Program.test
 dotnet build
 ```
 
@@ -83,5 +84,5 @@ dotnet test
 
 ## Solve
 
-- C#의 string method인 trim을 호출하여 앞 뒤 공백을 제거한다.
-- 그 후 split method를 써서 전체 단어의 개수를 구한다.
+- 숫자 입력값 세 개를 곱해서 나온 결과 수를 ToString()으로 변환한다.
+- string을 enumerate 하면 하나의 char로 받을 수 있는데, 이 char에 해당하는 숫자 0~9 사이의 값을 int[10] array에 맞는 index의 값에 하나씩 더하는 식으로 숫자의 개수를 구한다.
