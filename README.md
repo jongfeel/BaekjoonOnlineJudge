@@ -153,4 +153,6 @@ Beakjoon online judge problems solve
 
 ### [11719 그대로 출력하기2](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11719)
 
+### [11726 2xn 타일링](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/11726)
+
 ### [15552 빠른 A + B](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/15552)
