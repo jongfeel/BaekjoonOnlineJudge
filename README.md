@@ -20,6 +20,8 @@ Beakjoon online judge problems solve
 - 문제를 푸는 기간은 정해져 있지만 코드 리뷰를 하는 건 코드 공유한 시점 이후 자유롭게 가능
 - 스터디원은 각자 익숙한 프로그래밍 언어로 함: Java, pPython, JavaScript, C++, C# 등
 - 유일하게 나 혼자 C#임
+- 2018년 11월 중순 이후 아무도 스터디를 하는 사람이 없음, 그래서 나도 안하고 있다가
+- [다른 스터디 모임](https://github.com/jongfeel/SongDoAlgorithmStudy)을 통해 동일한 문제를 풀고 간간이 업데이트 함
 
 ### System Requirement, C#
 
@@ -63,6 +65,8 @@ Beakjoon online judge problems solve
 #### Step6: 1차원 배열 사용하기
 
 [1152](https://www.acmicpc.net/problem/1152), [2577](https://www.acmicpc.net/problem/2577), [8958](https://www.acmicpc.net/problem/8958), [2920](https://www.acmicpc.net/problem/2920), [10039](https://www.acmicpc.net/problem/10039)
+
+### 이후 문제는 시간 순서에 따라 업데이트 함
 
 ## Solved Problems
 
@@ -114,6 +118,8 @@ Beakjoon online judge problems solve
 ### [4344 평균은 넘겠지](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/4344)
 
 ### [4673 셀프 넘버](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/4673)
+
+### [*5052 전화번호 목록](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/5052)
 
 ### [7287 등록](https://github.com/jongfeel/BaekjoonOnlineJudge/tree/master/Problems/7287)
 
